@@ -14,7 +14,7 @@ namespace polymorphism
             // input string + int > convert them into a type of your choice and display them
         }
 
-         private void convertType(bool valueOne, float valueTwo)
+        private void convertType(bool valueOne, float valueTwo)
         {
             int one = Convert.ToByte(valueOne);
             float two = Convert.ToInt32(valueTwo);
